@@ -1,0 +1,13 @@
+.main__class {
+  border: 3px solid rgb(128, 207, 231);
+  width: 22rem;
+  margin: 60px auto;
+  display: flex;
+  justify-content: center;
+  overflow: scroll;
+  height: 30rem;
+  scroll-behavior: smooth;
+}
+.ct__body {
+  height: 35rem;
+}
