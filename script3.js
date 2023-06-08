@@ -1,4 +1,4 @@
-const listData = Array.from({ length: 10000 }, (_, i) => `Item ${i + 1}`);
+const listData = Array.from({ length: 1000000 }, (_, i) => `Item ${i + 1}`);
 const listHeight = 30;
 const container = document.getElementById("list-container");
 
