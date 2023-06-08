@@ -18,7 +18,6 @@ function render() {
     .join("");
 }
 const listContent = document.getElementById("list-content");
-// listContent.style.height = `${listData.length * listHeight}px`;
 
 render();
 container.addEventListener("scroll", render);
